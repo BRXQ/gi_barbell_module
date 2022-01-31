@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GymInstructor</string>
+    <string name="calculator_barbell_label_0">Штанга</string>
+    <string name="calculator_barbell_label_1">Расчет дисков для штанги</string>
+    <string name="calculator_barbell_label_2">Диски должны быть с обеих сторон <b>одинаковые</b>!</string>
+    <string name="calculator_barbell_label_3">Введите вес</string>
+    <string name="calculator_barbell_label_input">Введите вес</string>
+    <string name="calculator_barbell_label_button">Расчитать</string>
+    <string name="red_plate">25</string>
+    <string name="blue_plate">20</string>
+    <string name="yellow_plate">15</string>
+    <string name="green_plate">10</string>
+    <string name="five_plate">5</string>
+    <string name="two_half_plate">2.5</string>
+    <string name="one_quarter_plate">1.25</string>
+</resources>
